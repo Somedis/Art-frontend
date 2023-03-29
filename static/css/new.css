@@ -19,6 +19,7 @@ body {
 .w-auto img {
     width: 100px;
     margin-bottom: 0.5em;
+    margin-top: 0.5em;
 }
 
 .flex.items-center.justify-center>li>a {
